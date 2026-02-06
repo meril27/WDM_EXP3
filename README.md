@@ -144,4 +144,4 @@ visualize_patterns_line(Dataset_1_result, 'Dataset_1')
 
 
 ### Result:
-Hence, the GSP algorithm successfully identified frequent sequential patterns of lengths for the given dataset based on the specified minimum support threshold.
+Hence, the GSP algorithm successfully identified frequent sequential patterns of lengths for the given dataset based on the specified minimum support threshold using python.
